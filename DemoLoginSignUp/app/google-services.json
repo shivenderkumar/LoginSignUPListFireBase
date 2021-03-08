@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38955554972",
+    "firebase_url": "https://demologinsignup-3b8bd-default-rtdb.firebaseio.com",
+    "project_id": "demologinsignup-3b8bd",
+    "storage_bucket": "demologinsignup-3b8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38955554972:android:8afed101f57e6d6feb3559",
+        "android_client_info": {
+          "package_name": "com.shivenderkumar.demologinsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38955554972-49vqhoqnnqh1inida8stbs4k6lh0jm8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvRMoIFh16fXnEgaVYOQcv42bUVBlsNn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38955554972-49vqhoqnnqh1inida8stbs4k6lh0jm8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
